@@ -18,7 +18,9 @@ const App = () => {
     async function dataFectch() {
 
       try {
-        const usersData = await fetch("http://localhost:5000/data");
+        const usersData = await fetch("http://localhost:5000/data");  // the api is created manually you can see in the assets data.json
+        // to run that file only we access the data for 
+        // npx json-server --watch data.json --port 5000  type this by selecting the integrated terminal for assets folder
         const response = await usersData.json()
         setUsers(response)
         console.log(response);
