@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Boopathiraja S",
+      "email": "helo@gmail.com",
+      "website": "https//boopathi.com",
+      "address": {
+        "doorno": "12/172",
+        "street": "smc palayam, mgc palayam(post)",
+        "city": "coimbatore",
+        "pincode": 641107
+      }
+    },
+    {
+      "id": "2",
+      "name": "Vimal kumar R",
+      "email": "vimal@gmail.com",
+      "website": "https//vimal.com",
+      "address": {
+        "doorno": "12/102",
+        "street": "pollachi palayam, pollachi palayam(post)",
+        "city": "coimbatore",
+        "pincode": 641113
+      }
+    },
+    {
+      "id": "3",
+      "name": "Elango S",
+      "email": "elango@gmail.com",
+      "website": "https//elango.com",
+      "address": {
+        "doorno": "12/111",
+        "street": "ooty palayam, ooty palayam(post)",
+        "city": "coimbatore",
+        "pincode": 641101
+      }
+    },
+    {
+      "id": "4",
+      "name": "Dhilak M",
+      "email": "dhilak@gmail.com",
+      "website": "https//dhilak.com",
+      "address": {
+        "doorno": "12/201",
+        "street": "sirkazli palayam, sirkazli palayam(post)",
+        "city": "vilupuram",
+        "pincode": 641155
+      }
+    },
+    {
+      "id": "5",
+      "name": "Roshan R",
+      "email": "roshan@gmail.com",
+      "website": "https//roshan.com",
+      "address": {
+        "doorno": "12/321",
+        "street": "thirunalveli palayam, thirunalveli palayam(post)",
+        "city": "thirunalveli",
+        "pincode": 641642
+      }
+    },
+    {
+      "id": "6",
+      "name": "Bharath V",
+      "email": "bharath@gmail.com",
+      "website": "https//bharath.com",
+      "address": {
+        "doorno": "12/783",
+        "street": "sathy palayam, sathy palayam(post)",
+        "city": "coimbatore",
+        "pincode": 641103
+      }
+    },
+    {
+      "id": "7",
+      "name": "Dharshankumar S",
+      "email": "dharshan@gmail.com",
+      "website": "https//dharshan.com",
+      "address": {
+        "doorno": "12/932",
+        "street": "madurai palayam, madurai palayam(post)",
+        "city": "madurai",
+        "pincode": 641107
+      }
+    },
+    {
+      "id": "8",
+      "name": "Zoro A",
+      "email": "zoro@gmail.com",
+      "website": "https//zoro.com",
+      "address": {
+        "doorno": "NA",
+        "street": "NA",
+        "city": "NA",
+        "pincode": 0
+      }
+    },
+    {
+      "id": "9",
+      "name": "Vishnu S.A",
+      "email": "vishnu@gmail.com",
+      "website": "https//vishnu.com",
+      "address": {
+        "doorno": "12/106",
+        "street": "smc palayam, mgc palayam(post)",
+        "city": "coimbatore",
+        "pincode": 641107
+      }
+    },
+    {
+      "id": "10",
+      "name": "Monkey.D.Luffy",
+      "email": "luffy@gmail.com",
+      "website": "https//luffy.com",
+      "address": {
+        "doorno": "12/106",
+        "street": "windmill palayam, East blue",
+        "city": "onepice",
+        "pincode": 300000
+      }
+    }
+  ]
+}
